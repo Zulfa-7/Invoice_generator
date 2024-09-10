@@ -1,7 +1,7 @@
 Invoice Generator Application
 =============================
 
-This is a Flask-based web application that generates an invoice PDF based on user input from a form. The application handles file uploads for the logo and signature, computes the total amounts and tax rates, and uses the `weasyprint` library to generate a PDF from an HTML template.
+This is a Flask-based web application that generates an invoice PDF based on user input from a form. The application computes the total amounts and tax rates, and uses the `weasyprint` library to generate a PDF from an HTML template.
 
 Getting Started
 ---------------
