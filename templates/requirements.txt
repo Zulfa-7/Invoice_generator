@@ -1,4 +1,5 @@
-Flask
-WeasyPrint
-Jinja2
-num2words
+Flask==2.0.1
+weasyprint==52.5
+jinja2==3.0.3
+werkzeug==2.0.1
+num2words==0.5.12
